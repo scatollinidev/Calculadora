@@ -11,7 +11,7 @@ Scatollini Calculator
 Esse projeto se baseia em uma calculadora (básica). Possui música lo-fi em background, que é ativada ao clicar no botão de "limpar".
 <br>
 <br>
-Sinta-se á vontade para usá-la <a href="https://scatollinidev.github.io/Calculadora/"> clicando aqui </a>
+Sinta-se á vontade para usá-la <a href="https://scatollinidev.github.io/Calculadora/"> clicando aqui. </a>
 </br>
 </br>
 
