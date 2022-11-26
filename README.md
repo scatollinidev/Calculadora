@@ -20,7 +20,7 @@ Sinta-se á vontade para usá-la <a href="https://scatollinidev.github.io/Calcul
 <a href="https://www.instagram.com/scatollinisccp/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
 <a href="mailto:mathscato@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
 </a>
 </a>
 </br>
@@ -31,3 +31,6 @@ Sinta-se á vontade para usá-la <a href="https://scatollinidev.github.io/Calcul
 * HTML
 * CSS
 * Javascript
+
+## ⚡ Preview
+<img src="https://i.imgur.com/gifsH9i.png"/>
