@@ -31,6 +31,8 @@ Sinta-se á vontade para usá-la <a href="https://scatollinidev.github.io/Calcul
 * HTML
 * CSS
 * Javascript
+<br>
 
 ## ⚡ Preview
 <img src="https://i.imgur.com/gifsH9i.png"/>
+</br>
